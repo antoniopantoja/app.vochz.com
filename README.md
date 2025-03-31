@@ -31,7 +31,8 @@
 <p>📩 Para acesso: <strong>antoniopantojasr@gmail.com</strong></p>
 
 <h2>📸 Preview</h2>
-<img src="https://github.com/user-attachments/assets/81411976-8098-403c-a9e1-1cfb2fdc5007" alt="📱 Preview" width="1000">
+<img src="https://github.com/user-attachments/assets/efcb4818-adad-4608-a58b-4c24a726a909" alt="📱 Preview" width="1000">
+
 
 <h3>🌙 Modo Noturno</h3>
 <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/app.vochz.com%20Noturna.gif" alt="🌙 Nocturnal Preview" width="200">
