@@ -31,7 +31,8 @@
 <p>📩 Para acesso: <strong>antoniopantojasr@gmail.com</strong></p>
 
 <h2>📸 Preview</h2>
-<img src="https://github.com/user-attachments/assets/efcb4818-adad-4608-a58b-4c24a726a909" alt="📱 Preview" width="1000">
+<img src="https://github.com/user-attachments/assets/5ad6d595-e2e9-47d0-b076-69b8161de81b" alt="📱 Preview" width="1000">
+
 
 
 <h3>🌙 Modo Noturno</h3>
