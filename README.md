@@ -1,4 +1,5 @@
-<h1>✨ app.vochz.com</h1>
+![ic_launcher](https://github.com/user-attachments/assets/c0b76993-51ca-4932-9b28-238a1a1fc799)
+<h1>app.vochz.com</h1>
 
 <h2>📌 Tecnologia</h2>
 <p>Aplicativo desenvolvido em <strong>React Native</strong>, permitindo a criação de apps nativos para <strong>iOS e Android</strong> com uma única base de código.</p>
