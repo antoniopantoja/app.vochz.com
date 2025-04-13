@@ -34,7 +34,4 @@
 <h2>📸 Preview</h2>
 <img src="https://github.com/user-attachments/assets/5ad6d595-e2e9-47d0-b076-69b8161de81b" alt="📱 Preview" width="1000">
 
-
-
-<h3>🌙 Modo Noturno</h3>
-<img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/app.vochz.com%20Noturna.gif" alt="🌙 Nocturnal Preview" width="200">
+<img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/app.vochz.gif" alt="🌙 Nocturnal Preview" width="200">
